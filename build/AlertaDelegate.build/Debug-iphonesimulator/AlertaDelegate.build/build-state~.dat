@@ -1,0 +1,256 @@
+TAlertaDelegate
+v7
+r0
+t278864330.285388
+cCheck dependencies
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/Info.plist AlertaDelegate-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch.gch AlertaDelegate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/AlertaDelegate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateAppDelegate.o /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateViewController.o /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate normal i386
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app.dSYM /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate
+cTouch /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AAC665500000000000000EE
+t1252812373
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib
+c000000004AEEE98B00000000000018F7
+t1257171339
+s6391
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegate_Prefix.pch
+c000000004AEEE98B00000000000000C5
+t1257171339
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.h
+c000000004AEEE98B000000000000020A
+t1257171339
+s522
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m
+c000000004AEEE98B000000000000028E
+t1257171339
+s654
+i"AlertaDelegateAppDelegate.h"
+i"AlertaDelegateViewController.h"
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.h
+c000000004AEEE9A0000000000000013A
+t1257171360
+s314
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m
+c000000004AEEEA4500000000000007D6
+t1257171525
+s2006
+i"AlertaDelegateViewController.h"
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib
+c000000004AEEE98B000000000000249B
+t1257171339
+s9371
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegate.LinkFileList
+c000000004AEEEA4800000000000001CE
+t1257171528
+s462
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateAppDelegate.o
+t1257171530
+s38272
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateViewController.o
+t1257171530
+s36588
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/main.o
+t1257171530
+s5948
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app
+t1257171530
+s238
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app.dSYM
+t1257171530
+s102
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate
+t1257171530
+s20460
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegateViewController.nib
+t1257171529
+s800
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/Info.plist
+t1257171528
+s590
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/MainWindow.nib
+t1257171529
+s1118
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/PkgInfo
+t1257171528
+s8
+
+N/Users/MatheusBrum/Desktop/AlertaDelegate/main.m
+c000000004AEEE98B0000000000000171
+t1257171339
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch.gch
+t1257171529
+s13034960
+
+NAlertaDelegate-Info.plist
+c000000004AEEE98B000000000000038D
+t1257171339
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278864328#278864328#0(0"0(0#1#0"2416090432#0"0#
+
+CCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateAppDelegate.o /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278864330.040153
+e278864330.109704
+r1
+xCompileC
+xbuild/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateAppDelegate.o
+x/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m278864330#278864330#0(0"0(0#0#77"/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m2416090432#2080"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-generated-files.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-project-headers.hmap -F/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch -c /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateAppDelegate.m -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateAppDelegate.o0#
+
+CCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateViewController.o /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278864330.086821
+e278864330.162841
+r1
+xCompileC
+xbuild/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateViewController.o
+x/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m278864330#278864330#0(0"0(0#0#80"/Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m2416090432#2086"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-generated-files.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-project-headers.hmap -F/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch -c /Users/MatheusBrum/Desktop/AlertaDelegate/Classes/AlertaDelegateViewController.m -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegateViewController.o0#
+
+CCompileC build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/AlertaDelegate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278864330.038922
+e278864330.086719
+r1
+xCompileC
+xbuild/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/AlertaDelegate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/MatheusBrum/Desktop/AlertaDelegate/main.m278864330#278864330#0(0"0(0#0#48"/Users/MatheusBrum/Desktop/AlertaDelegate/main.m2416090432#2030"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-generated-files.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-project-headers.hmap -F/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch -c /Users/MatheusBrum/Desktop/AlertaDelegate/main.m -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib
+s278864328.819435
+e278864329.219685
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib
+lSLF07#2@43"CompileXIB AlertaDelegateViewController.xib278864328#278864329#0(0"0(0#0#74"/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib2416090432#532"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegateViewController.nib /Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegateViewController.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib
+s278864328.813439
+e278864329.223321
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278864328#278864329#0(0"0(0#0#56"/Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib2416090432#496"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/MainWindow.nib /Users/MatheusBrum/Desktop/AlertaDelegate/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app.dSYM /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate
+s278864330.222225
+e278864330.279373
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app.dSYM
+x/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/AlertaDelegate.app.dSYM build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate278864330#278864330#0(0"0(0#0#103"/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate2416090432#413"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app.dSYM0#
+
+CLd /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate normal i386
+s278864330.162952
+e278864330.222113
+r1
+xLd
+x/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate
+xnormal
+xi386
+lSLF07#2@108"Link /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate278864330#278864330#0(0"0(0#0#0"2416090432#912"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -F/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -filelist /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/Objects-normal/i386/AlertaDelegate.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/AlertaDelegate0#
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/Info.plist AlertaDelegate-Info.plist
+s278864328.806545
+e278864328.813352
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/Info.plist
+xAlertaDelegate-Info.plist
+lSLF07#2@33"Process AlertaDelegate-Info.plist278864328#278864328#0(0"0(0#0#67"/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegate-Info.plist2416090432#509"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AlertaDelegate-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch.gch AlertaDelegate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278864329.223422
+e278864330.038773
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch.gch
+xAlertaDelegate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile AlertaDelegate_Prefix.pch278864329#278864330#0(0"0(0#0#67"/Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegate_Prefix.pch2416090432#1912"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-generated-files.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/AlertaDelegate-project-headers.hmap -F/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/AlertaDelegate/build/AlertaDelegate.build/Debug-iphonesimulator/AlertaDelegate.build/DerivedSources -c /Users/MatheusBrum/Desktop/AlertaDelegate/AlertaDelegate_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertaDelegate_Prefix-garpvobsawojqagmltoejatieiin/AlertaDelegate_Prefix.pch.gch0#
+
+CTouch /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app
+s278864330.279448
+e278864330.285361
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app
+lSLF07#2@94"Touch /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app278864330#278864330#0(0"0(0#0#0"2416090432#291"    cd /Users/MatheusBrum/Desktop/AlertaDelegate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/AlertaDelegate/build/Debug-iphonesimulator/AlertaDelegate.app0#
+
